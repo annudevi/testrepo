@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println("your name is : " + name);
         scanner.close();
+        System.out.println("hi how are ");
     }
 }
